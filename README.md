@@ -7,7 +7,7 @@
       </div>
       <div class="text">
         <h3 align>
-          I am currently a chemist with an interest in software development! <br><br>I have been teaching myself to code for the last 3 years now mainly      through games or small projects.<br><br>Currently I am working on refining my React skills and expertise.
+          I am currently a chemist with an interest in software development! <br><br>I have been teaching myself to code for the last 3 years now, mainly through games or small projects.<br><br>Currently I am working on refining my React skills and expertise.
         </h3>
       </div>
       <br clear="left"/>
