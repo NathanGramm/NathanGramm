@@ -6,9 +6,9 @@
         <img align="left" src="https://github.com/NathanGramm/NathanGramm/assets/129813887/8d9d55d3-7869-470c-bad0-1166cac7b05a" width="640" height="360"/>
       </div>
       <div class="text">
-        <h3 align>
+        <p align>
           I am currently a chemist with an interest in software development! <br><br>I have been teaching myself to code for the last 3 years now, mainly through games or small projects.<br><br>Currently I am working on refining my React skills and expertise.
-        </h3>
+        </p>
       </div>
       <br clear="left"/>
     </div>
