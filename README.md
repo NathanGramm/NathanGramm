@@ -27,7 +27,7 @@ I am the sole developer/lead on a comprehensive software suite designed from the
 
 ### GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanGramm&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NathanGramm&theme=radical)
 
 ---
 
