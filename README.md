@@ -34,6 +34,6 @@ I am the sole developer/lead on a comprehensive software suite designed from the
 ### 📫 How to reach me
 
 * **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-gramm-759799194) 
-* **Email:** [ncgramm@gmail.com](mailto:ncgramm@gmail.com)
+* **Email:** [ncgramm@protonmail.com](mailto:ncgramm@protonmail.com)
 
 ***
