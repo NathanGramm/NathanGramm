@@ -1,39 +1,32 @@
-# Hi there, I'm Nathan Gramm
+# Nathan Gramm
 
-### Bridging the gap between the physical and digital worlds in the lumber industry.
+**Systems administration, self-hosting, and internal tooling**
 
-I am an IT Specialist and Production Coordinator currently working at a lumberyard. I specialize in optimizing physical workflows and building practical, data-driven software solutions to solve real-world industrial challenges.
+I'm the sole IT administrator and production coordinator at a small lumber business (about 40–50 people). I run the network, the computers, and the business software, and I build the tools that connect them to the production floor. I'm looking for a dedicated sysadmin role on a team that runs both Windows and Linux.
 
----
+## At work
 
-### What I'm Currently Working On
+- Run IT for the whole company: network, endpoints, printers, and user support. I keep a runbook of everything I touch.
+- Point person for the migration from Jobber and Sortly to Odoo, covering implementation decisions and questions from staff.
+- Build work orders and bills of materials, and analyze production data to find bottlenecks.
+- Built TimberArchive, an internal inventory and production-tracking system for the yard.
 
-**TimberArchive**
-I am the sole developer/lead on a comprehensive software suite designed from the ground up to modernize lumberyard operations. Key features include:
-* **Inventory Management:** Real-time tracking of raw materials and finished lumber stocks.
-* **Production Tracking:** Monitoring the lifecycle of products from the mill to the yard.
-* **Data Analytics & Reporting:** Generating automated, high-level reports to help management identify bottlenecks, optimize yield, and forecast demand.
+## Projects
 
----
+**Home Control Plane**: a Node.js dashboard for my home server that starts and stops containers, reports CPU and RAM per container, and shows finances from Firefly III. It reaches Docker only through a restricted socket proxy and sits behind reverse-proxy auth on a Tailscale network.
 
-### Tech Stack & Tools
+**Homelab**: a self-hosted server running Docker and Portainer, with Nginx Proxy Manager as reverse proxy and Pi-hole for local DNS. It hosts Jellyfin, Tandoor, Firefly III, and a modded Minecraft server. Everything is reachable only over the LAN and Tailscale.
 
-* **Languages:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-* **Frameworks & Libraries:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-* **Database & Cloud:** ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-* **Industry Skills:** IT Infrastructure, Production Planning, Systems Administration, Workflow Optimization
+## Skills
 
----
+| Area | What I use |
+| --- | --- |
+| Operating systems | Linux (Ubuntu, Arch-based CachyOS), Windows |
+| Infrastructure | Docker, Docker Compose, Portainer, Nginx Proxy Manager, Pi-hole, Tailscale |
+| Networking | VLAN / SSID segmentation, local DNS, reverse proxies |
+| Programming | JavaScript / Node.js, GDScript, VBA |
+| Tools | Git and GitHub |
 
-### GitHub Stats
+## Contact
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=NathanGramm&theme=radical)
-
----
-
-### 📫 How to reach me
-
-* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-gramm-759799194) 
-* **Email:** [ncgramm@protonmail.com](mailto:ncgramm@protonmail.com)
-
-***
+[LinkedIn](https://linkedin.com/in/nathan-gramm-759799194) · [ncgramm@protonmail.com](mailto:ncgramm@protonmail.com)
